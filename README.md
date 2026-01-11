@@ -39,6 +39,9 @@ Metrics: PSNR, SSIM, L1, L2, Chi-square, KL divergence
 
 Security Analysis: Histogram similarity and frequency-domain analysis
 
+---
+
+
 ## Notes
 
 This implementation is intended for academic and educational use.
